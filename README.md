@@ -1,3 +1,3 @@
-# Simulación de un torneo de football
+# Simulación de un torneo de fútbol
 
-Proyecto en Java que simula el Torneo de Futbol varonil en la UAM-C.
+Proyecto en Java que simula el Torneo de Fútbol varonil en la UAM-C.
